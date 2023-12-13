@@ -19,17 +19,8 @@ There are many ways to create objects in Filedglass as mentioned below,
 ![staffing and service procurement types] (./Screenshot 2023-12-13 120805.png)
 
 
-Screenshot 2023-12-13 120805.png
 
-      The object literal syntax (or object initializer), is a comma-separated set of name-value pairs wrapped in curly braces.
 
-      ```javascript
-      var object = {
-           name: "Sudheer",
-           age: 34
-      };
+    
 
-      Object literal property values can be of any data type, including array, function, and nested object.
-      ```
-
-      **Note:** This is an easiest way to create an object.
+      **Note:** This is an easiest way to create an Fieldgrass.
