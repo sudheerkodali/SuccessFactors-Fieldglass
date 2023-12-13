@@ -4,10 +4,15 @@ Fieldglass and its types and properties
 **[⬆ Back to Top](#table-of-contents)**
 
 
+There are many ways to create objects in Filedglass as mentioned below,
 
-There are many ways to create objects in javascript as mentioned below,
-
-   1. **Object literal syntax:**
+   1. **Staffing and service procurement:**
+   2. **Vendor management system:**
+   3. **The program:**
+   4. **A contingent worker procurement process:**
+   5. **Service Procurement:**
+   6. **Service procurement in SAP Filedglass:**
+   7. **Worker profile Management:**
 
       The object literal syntax (or object initializer), is a comma-separated set of name-value pairs wrapped in curly braces.
 
