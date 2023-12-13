@@ -1,10 +1,11 @@
 # SuccessFactors-Fieldglass
 Fieldglass and its types and properties 
-| 1   | [What are the possible ways to create fieldglass](#what-are-the-possible-ways-to-create-objects-in-Filedglass)      
-**[⬆ Back to Top](#table-of-contents)**
+| 1   | [What are the possible ways to create fieldglass](#what-are-the-possible-ways-to-create-objects-in-Filedglass)   
+
+<!--**[⬆ Back to Top](#table-of-contents)**-->
 
 
-There are many ways to create objects in Filedglass as mentioned below,
+There are many ways to create Filedglass as mentioned below,
 
    1. **Staffing and service procurement:**
    2. **Vendor management system:**
@@ -16,7 +17,7 @@ There are many ways to create objects in Filedglass as mentioned below,
 
 
 # 1.Staffing and service procurement:
-![staffing and service procurement types] (./Screenshot 2023-12-13 120805.png)
+![staffing and service procurement types] (./SuccessFactors-fieldglass/Screenshot 2023-12-13 120805.png)
 
 
 
