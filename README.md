@@ -14,6 +14,13 @@ There are many ways to create objects in Filedglass as mentioned below,
    6. **Service procurement in SAP Filedglass:**
    7. **Worker profile Management:**
 
+
+# 1.Staffing and service procurement:
+![staffing and service procurement types] (./Screenshot 2023-12-13 120805.png)
+
+
+Screenshot 2023-12-13 120805.png
+
       The object literal syntax (or object initializer), is a comma-separated set of name-value pairs wrapped in curly braces.
 
       ```javascript
