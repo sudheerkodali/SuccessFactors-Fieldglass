@@ -24,4 +24,4 @@ There are many ways to create Filedglass as mentioned below,
 
     
 
-      **Note:** This is an easiest way to create an Fieldgrass.
+      **Note:** There are several subtypes in staffing and service procurement.
