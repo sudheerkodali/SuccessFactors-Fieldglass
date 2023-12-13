@@ -17,7 +17,7 @@ There are many ways to create Filedglass as mentioned below,
 
 
 # 1.Staffing and service procurement:
-![staffing and service procurement types] (./SuccessFactors-fieldglass/Screenshot 2023-12-13 120805.png)
+![staffing and service procurement types] (./Screenshot 2023-12-13 120805.png)
 
 
 
