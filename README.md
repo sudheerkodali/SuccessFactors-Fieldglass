@@ -20,7 +20,7 @@ There are many ways to create Filedglass as mentioned below,
 ![staffing and service procurement types](./Fg1.png)
 
 # *DEFINE SUPPLIER 
-![Define supplier](./)
+![Define supplier](./SuccessFactors-fieldglass/Screenshot 2023-12-13 120821.png)
 
 # *DEFINE BUYER
 ![Define Buyer](./)
