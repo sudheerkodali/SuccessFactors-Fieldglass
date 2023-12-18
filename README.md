@@ -26,9 +26,7 @@ There are many ways to create Filedglass as mentioned below,
 ![Define Buyer](./Buyer2.png))
 
 # *worker
-https://github.com/sudheerkodali/SuccessFactors-Fieldglass/blob/c633cd380d65ab90f0b35019146278d961c390df/SuccessFactors-fieldglass/Screenshot%202023-12-13%20120913.png
-
-![Define worker](.SuccessFactors-fieldglass/Screenshot 2023-12-13 120913.png)
+/*![Define worker](.SuccessFactors-filedglass/worker3.png)/*
 
 
 
