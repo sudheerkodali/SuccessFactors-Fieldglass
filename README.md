@@ -23,7 +23,7 @@ There are many ways to create Filedglass as mentioned below,
 ![Define supplier](./SuccessFactors-fieldglass/Screenshot 2023-12-13 120821.png)
 
 # *DEFINE BUYER
-![Define Buyer](./)
+![Define Buyer](./SuccessFactors-fieldglass/screenshot 2023-12-13 120850.png))
 
 
 
