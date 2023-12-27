@@ -25,8 +25,15 @@ There are many ways to create Filedglass as mentioned below,
 # *DEFINE SUPPLIER
 ![Define Buyer](./Suppliere3.png)<hr>
 
-# *worker
+# *WORKER
 ![Define worker](./worker4.png)
+
+# *WORKER ENGAGEMENT
+![Define worker engagement](./)
+
+# *CONTIGENT WORKER
+![Define contigent worker](./)
+
 
 
 
