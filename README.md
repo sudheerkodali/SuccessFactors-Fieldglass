@@ -29,10 +29,10 @@ There are many ways to create Filedglass as mentioned below,
 ![Define worker](./worker4.png)
 
 # *WORKER ENGAGEMENT
-![Define worker engagement](./)
+![Define worker engagement](./Worker engagement.png)
 
-# *CONTIGENT WORKER
-![Define contigent worker](./)
+# *CONTINGENT WORKER
+![Define contingent worker](./contingent worker6.png)
 
 
 
