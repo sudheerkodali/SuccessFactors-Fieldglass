@@ -34,6 +34,9 @@ There are many ways to create Filedglass as mentioned below,
 # *CONTINGENT WORKER
 ![Define contingent worker](./Contingent-worker6.png)
 
+# *STAFFING AND SERVICE
+![Define staffing and service](./Staffing-and-services7)
+
 
 
 
