@@ -26,7 +26,7 @@ There are many ways to create Filedglass as mentioned below,
 ![Define Buyer](./Buyer2.png))
 
 # *worker
-![Define worker](SuccessFactors-filedglass/worker3.png)
+![Define worker](./worker4.png)
 
 
 
