@@ -20,10 +20,10 @@ There are many ways to create Filedglass as mentioned below,
 ![staffing and service procurement types](./Fg1.png)
 
 # *DEFINE BUYER 
-![Define supplier](./Buyer2.png)
+![Define supplier](./Buyer2.png)<hr>
 
 # *DEFINE SUPPLIER
-![Define Buyer](./Suppliere3.png))
+![Define Buyer](./Suppliere3.png))<hr>
 
 # *worker
 ![Define worker](./worker4.png)
