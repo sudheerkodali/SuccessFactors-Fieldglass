@@ -23,7 +23,7 @@ There are many ways to create Filedglass as mentioned below,
 ![Define supplier](./Buyer2.png)<hr>
 
 # *DEFINE SUPPLIER
-![Define Buyer](./Suppliere3.png))<hr>
+![Define Buyer](./Suppliere3.png)<hr>
 
 # *worker
 ![Define worker](./worker4.png)
