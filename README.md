@@ -17,7 +17,7 @@ There are many ways to create Filedglass as mentioned below,
 
 
 # 1.Staffing and service procurement:
-![staffing and service procurement types](./Fg1.png)
+![staffing and service procurement types](./Fg1.png)<hr>
 
 # *DEFINE BUYER 
 ![Define supplier](./Buyer2.png)<hr>
