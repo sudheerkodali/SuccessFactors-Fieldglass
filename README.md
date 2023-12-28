@@ -38,7 +38,7 @@ There are many ways to create Filedglass as mentioned below,
 ![Define staffing and service](./Staffing-and-services7.png)
 
 # *Statement of work
-![Define SWO](./screenshot8.png)
+![Define SWO](./Screenshot8.png)
 
 
 
