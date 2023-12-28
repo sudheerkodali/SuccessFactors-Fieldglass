@@ -37,8 +37,13 @@ There are many ways to create Filedglass as mentioned below,
 # *STAFFING AND SERVICE
 ![Define staffing and service](./Staffing-and-services7.png)
 
-# *Statement of work
+# *SERVICE/SOW
 ![Define SWO](./Screenshot8.png)
+
+# *VENDAR MANAGEMENT SYSTEM
+![DefinecVMS](./Screenshot9.png)
+
+
 
 
 
