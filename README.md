@@ -50,7 +50,7 @@ There are many ways to create Filedglass as mentioned below,
 ![Define VMS, Provide visiblity](./Screenshot11.png)
 
 # *Provide visiblity
-![Define VMS, Provide visiblity](./Screenshot12.png)
+![Define VMS, Provide visiblity](./Screenshot-12.png)
 
 # *Provide visiblity
 ![Define VMS, Provide visiblity](./Screenshot13.png)
