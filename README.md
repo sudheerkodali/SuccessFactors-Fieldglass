@@ -46,6 +46,9 @@ There are many ways to create Filedglass as mentioned below,
 # *vms
 ![Define vendor management system](./Screenshot10.png)
 
+# *Prodide visiblity
+![Define VMS, Provide visiblity](./Screenshot11.png)
+
 
 
 
