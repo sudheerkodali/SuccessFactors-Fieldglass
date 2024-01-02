@@ -61,7 +61,14 @@ There are many ways to create Filedglass as mentioned below,
 # *Program duties
 ![Define program duties](./Screenshot15.png)
 
+# *Program management office PMO
+![Define PMO](./Screenshot15.png)
 
+# *The Managed service provider MSP
+![Define MSP](./Screenshot15.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define contingent worker procurement](./Screenshot15.png)
 
 
 
