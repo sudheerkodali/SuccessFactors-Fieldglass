@@ -49,17 +49,17 @@ There are many ways to create Filedglass as mentioned below,
 # *Provide visiblity
 ![Define VMS, Provide visiblity](./Screenshot11.png)
 
-# *Provide visiblity
-![Define VMS, Provide visiblity](./Screenshot-12.png)
+# *The program
+![Define program](./Screenshot-12.png)
 
-# *Provide visiblity
-![Define VMS, Provide visiblity](./Screenshot13.png)
+# *program theory
+![The program](./Screenshot13.png)
 
-# *Provide visiblity
-![Define VMS, Provide visiblity](./Screenshot14.png)
+# *program responsibilities
+![Define resoponsibilities](./Screenshot14.png)
 
-# *Provide visiblity
-![Define VMS, Provide visiblity](./Screenshot15.png)
+# *Program duties
+![Define program duties](./Screenshot15.png)
 
 
 
