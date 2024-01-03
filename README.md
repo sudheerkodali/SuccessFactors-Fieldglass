@@ -73,6 +73,71 @@ There are many ways to create Filedglass as mentioned below,
 # *Contingent worker procurement in SAP Fieldglass
 ![Define program duties](./Screenshot19.png)
 
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot20.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot21.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot22.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot23.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot24.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot25.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot26.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot27.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot28.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot29.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot30.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot31.png)
+
+# *Contingent worker procurement in SAP Fieldglass
+![Define program duties](./Screenshot32.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
