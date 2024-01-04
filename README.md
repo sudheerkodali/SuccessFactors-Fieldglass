@@ -70,11 +70,11 @@ There are many ways to create Filedglass as mentioned below,
 # *Contingent worker procurement in SAP Fieldglass
 ![Define contingent worker procurement](./Screenshot18.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot19.png)
+# *Job posting
+![cwp](./Screenshot19.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot20.png)
+# *Approving the job posting
+![cwp](./Screenshot20.png)
 
 # *Contingent worker procurement in SAP Fieldglass
 ![Define program duties](./Screenshot21.png)
