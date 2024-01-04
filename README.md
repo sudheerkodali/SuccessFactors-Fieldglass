@@ -5,9 +5,6 @@ Fieldglass and its types and properties
 
 ### Fieldglass and its types
 
-| No. | Questions                                                                                                                                                                                                                        |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | **Fieldglass**                                                                                                                                                                                                                   |
 
 There are many ways to create Filedglass as mentioned below,
 
