@@ -70,41 +70,41 @@ There are many ways to create Filedglass as mentioned below,
 # *Contingent worker procurement in SAP Fieldglass
 ![Define contingent worker procurement](./Screenshot18.png)
 
-# *Job posting
+# *Contingent worker process
 ![cwp](./Screenshot19.png)
 
-# *Approving the job posting
+# *Job posting
 ![cwp](./Screenshot20.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot21.png)
+# *Approving the job posting
+![cwp](./Screenshot21.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot22.png)
+# *Distributing the job posting
+![cwp](./Screenshot22.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot23.png)
+# *Reviewing job seekers
+![cwp](./Screenshot23.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot24.png)
+# *Selecting job candidates
+![cwp](./Screenshot24.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot25.png)
+# *Creating a work order
+![cwp](./Screenshot25.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot26.png)
+# *Approving the work order
+![cwp](./Screenshot26.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot27.png)
+# *Notifying the supplier
+![cwp](./Screenshot27.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot28.png)
+# *The worker registers
+![cwp](./Screenshot28.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot29.png)
+# *Tracking time & expenses
+![cwp](./Screenshot29.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot30.png)
+# *Approving the workers time and expenses
+![cwp](./Screenshot30.png)
 
 # *Contingent worker procurement in SAP Fieldglass
 ![Define program duties](./Screenshot31.png)
