@@ -2,12 +2,12 @@
 Fieldglass and its types and properties 
 | 1   | [What are the possible ways to create fieldglass](#what-are-the-possible-ways-to-create-objects-in-Filedglass)   
 
-<!--**[⬆ Back to Top](#table-of-contents)**-->
-### Table of Contents
+
+### Fieldglass and its types
 
 | No. | Questions                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | **Core React**                                                                                                                                                                                                                   |
+|     | **Fieldglass**                                                                                                                                                                                                                   |
 
 There are many ways to create Filedglass as mentioned below,
 
@@ -117,7 +117,7 @@ There are many ways to create Filedglass as mentioned below,
 ![cwp](./Screenshot32.png)
 
 
-  **[⬆ Back to Top](#table-of-contents)**
+  **[⬆ Back to Top](#Fieldglass-and-its-types)**
 
 
 
