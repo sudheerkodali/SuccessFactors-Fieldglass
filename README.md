@@ -106,11 +106,11 @@ There are many ways to create Filedglass as mentioned below,
 # *Approving the workers time and expenses
 ![cwp](./Screenshot30.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot31.png)
+# *Generating the invoice
+![cwp](./Screenshot31.png)
 
-# *Contingent worker procurement in SAP Fieldglass
-![Define program duties](./Screenshot32.png)
+# *Paying the workers
+![cwp](./Screenshot32.png)
 
 
 
